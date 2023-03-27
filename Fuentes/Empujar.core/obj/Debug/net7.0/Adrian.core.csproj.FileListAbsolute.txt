@@ -1,0 +1,29 @@
+C:\AGN\Proyectos\Adrian\Fuentes\DEV\Adrian.core\bin\Debug\net7.0\Adrian.core.deps.json
+C:\AGN\Proyectos\Adrian\Fuentes\DEV\Adrian.core\bin\Debug\net7.0\Adrian.core.dll
+C:\AGN\Proyectos\Adrian\Fuentes\DEV\Adrian.core\bin\Debug\net7.0\Adrian.core.pdb
+C:\AGN\Proyectos\Adrian\Fuentes\DEV\Adrian.core\bin\Debug\net7.0\AGNFrameWork.Core.dll
+C:\AGN\Proyectos\Adrian\Fuentes\DEV\Adrian.core\bin\Debug\net7.0\AGNWassenger.Core.dll
+C:\AGN\Proyectos\Adrian\Fuentes\DEV\Adrian.core\bin\Debug\net7.0\AGNWassenger.Core.pdb
+C:\AGN\Proyectos\Adrian\Fuentes\DEV\Adrian.core\bin\Debug\net7.0\AGNFrameWork.Core.pdb
+C:\AGN\Proyectos\Adrian\Fuentes\DEV\Adrian.core\obj\Debug\net7.0\Adrian.core.csproj.AssemblyReference.cache
+C:\AGN\Proyectos\Adrian\Fuentes\DEV\Adrian.core\obj\Debug\net7.0\Adrian.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\AGN\Proyectos\Adrian\Fuentes\DEV\Adrian.core\obj\Debug\net7.0\Adrian.core.AssemblyInfoInputs.cache
+C:\AGN\Proyectos\Adrian\Fuentes\DEV\Adrian.core\obj\Debug\net7.0\Adrian.core.AssemblyInfo.cs
+C:\AGN\Proyectos\Adrian\Fuentes\DEV\Adrian.core\obj\Debug\net7.0\Adrian.core.csproj.CoreCompileInputs.cache
+C:\AGN\Proyectos\Adrian\Fuentes\DEV\Adrian.core\obj\Debug\net7.0\Adrian.core.csproj.CopyComplete
+C:\AGN\Proyectos\Adrian\Fuentes\DEV\Adrian.core\obj\Debug\net7.0\Adrian.core.dll
+C:\AGN\Proyectos\Adrian\Fuentes\DEV\Adrian.core\obj\Debug\net7.0\refint\Adrian.core.dll
+C:\AGN\Proyectos\Adrian\Fuentes\DEV\Adrian.core\obj\Debug\net7.0\Adrian.core.pdb
+C:\AGN\Proyectos\Adrian\Fuentes\DEV\Adrian.core\obj\Debug\net7.0\ref\Adrian.core.dll
+C:\Users\Ariel\OneDrive\_PREVISOFT SRL\Producto Pinget\Comercial\Convenios\_EMPUJAR\Curso C#\Fuentes\Adrian.core\obj\Debug\net7.0\Adrian.core.dll
+C:\Users\Ariel\OneDrive\_PREVISOFT SRL\Producto Pinget\Comercial\Convenios\_EMPUJAR\Curso C#\Fuentes\Adrian.core\obj\Debug\net7.0\refint\Adrian.core.dll
+C:\Users\Ariel\OneDrive\_PREVISOFT SRL\Producto Pinget\Comercial\Convenios\_EMPUJAR\Curso C#\Fuentes\Adrian.core\obj\Debug\net7.0\Adrian.core.pdb
+C:\Users\Ariel\OneDrive\_PREVISOFT SRL\Producto Pinget\Comercial\Convenios\_EMPUJAR\Curso C#\Fuentes\Adrian.core\obj\Debug\net7.0\Adrian.core.csproj.AssemblyReference.cache
+C:\Users\Ariel\OneDrive\_PREVISOFT SRL\Producto Pinget\Comercial\Convenios\_EMPUJAR\Curso C#\Fuentes\Adrian.core\obj\Debug\net7.0\Adrian.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel\OneDrive\_PREVISOFT SRL\Producto Pinget\Comercial\Convenios\_EMPUJAR\Curso C#\Fuentes\Adrian.core\obj\Debug\net7.0\Adrian.core.AssemblyInfoInputs.cache
+C:\Users\Ariel\OneDrive\_PREVISOFT SRL\Producto Pinget\Comercial\Convenios\_EMPUJAR\Curso C#\Fuentes\Adrian.core\obj\Debug\net7.0\Adrian.core.AssemblyInfo.cs
+C:\Users\Ariel\OneDrive\_PREVISOFT SRL\Producto Pinget\Comercial\Convenios\_EMPUJAR\Curso C#\Fuentes\Adrian.core\obj\Debug\net7.0\Adrian.core.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\OneDrive\_PREVISOFT SRL\Producto Pinget\Comercial\Convenios\_EMPUJAR\Curso C#\Fuentes\Adrian.core\bin\Debug\net7.0\Adrian.core.deps.json
+C:\Users\Ariel\OneDrive\_PREVISOFT SRL\Producto Pinget\Comercial\Convenios\_EMPUJAR\Curso C#\Fuentes\Adrian.core\bin\Debug\net7.0\Adrian.core.dll
+C:\Users\Ariel\OneDrive\_PREVISOFT SRL\Producto Pinget\Comercial\Convenios\_EMPUJAR\Curso C#\Fuentes\Adrian.core\bin\Debug\net7.0\Adrian.core.pdb
+C:\Users\Ariel\OneDrive\_PREVISOFT SRL\Producto Pinget\Comercial\Convenios\_EMPUJAR\Curso C#\Fuentes\Adrian.core\obj\Debug\net7.0\ref\Adrian.core.dll

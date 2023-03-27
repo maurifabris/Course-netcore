@@ -1,0 +1,104 @@
+[
+  {
+    "outputFileName": "wwwroot/js/Identity/ChangePass.min.js",
+    "inputFiles": [
+      "wwwroot/js/Identity/ChangePass.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/Identity/ForgotPass.min.js",
+    "inputFiles": [
+      "wwwroot/js/Identity/ForgotPass.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/Identity/Login.min.js",
+    "inputFiles": [
+      "wwwroot/js/Identity/Login.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/Identity/ResetPass.min.js",
+    "inputFiles": [
+      "wwwroot/js/Identity/ResetPass.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/site.min.js",
+    "inputFiles": [
+      "wwwroot/js/site.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/Identity/FirstLogin.min.js",
+    "inputFiles": [
+      "wwwroot/js/Identity/FirstLogin.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/Backend/Usuario.min.js",
+    "inputFiles": [
+      "wwwroot/js/Backend/Usuario.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/Backend/TipoCentroDeCosto.min.js",
+    "inputFiles": [
+      "wwwroot/js/Backend/TipoCentroDeCosto.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/Backend/CentroDeCosto.min.js",
+    "inputFiles": [
+      "wwwroot/js/Backend/CentroDeCosto.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/Backend/TipoDeGasto.min.js",
+    "inputFiles": [
+      "wwwroot/js/Backend/TipoDeGasto.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/Backend/Material.min.js",
+    "inputFiles": [
+      "wwwroot/js/Backend/Material.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/Backend/Galpon.min.js",
+    "inputFiles": [
+      "wwwroot/js/Backend/Galpon.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/Backend/Cliente.min.js",
+    "inputFiles": [
+      "wwwroot/js/Backend/Cliente.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/Backend/Proveedor.min.js",
+    "inputFiles": [
+      "wwwroot/js/Backend/Proveedor.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/Backend/MaterialPrecio.min.js",
+    "inputFiles": [
+      "wwwroot/js/Backend/MaterialPrecio.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/Backend/Parametro.min.js",
+    "inputFiles": [
+      "wwwroot/js/Backend/Parametro.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/Backend/Viaje.min.js",
+    "inputFiles": [
+      "wwwroot/js/Backend/Viaje.js"
+    ]
+  }
+]

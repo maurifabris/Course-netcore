@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Metales Adrian</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/lib/fontawesome/css/all.min.css" />
+    <link rel="stylesheet" href="~/lib/DateRangePicker/daterangepicker.css">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.min.js" asp-append-version="true"></script>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+@*                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Inicio</a>*@
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Inicio</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Compras</a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="/Viaje">Viajes</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Configuracion</a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="/TipoCentroDeCosto">Tipos de Centros de Costo</a>
+                                <a class="dropdown-item" href="/CentroDeCosto">Centros de Costo</a>
+                                <a class="dropdown-item" href="/TiposDeGasto">Tipos de Gasto</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="/Materiales">Materiales</a>
+                                <a class="dropdown-item" href="/MaterialPrecio">Precios de Materiales</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="/Galpones">Galpones</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="/Clientes">Clientes</a>
+                                <a class="dropdown-item" href="/Proveedor">Proveedores</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="/Parametro">Parametros</a>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="/Usuario">Usuarios</a>
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav me-0">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="fa-solid fa-user"></i></a>
+                            <div class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+                                <span class="dropdown-item"><b>@User.Identity.Name</b></span>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="/AccessControl/ChangePass">Cambiar Password</a>
+                                <a class="dropdown-item" href="/AccessControl/Logout">Salir</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
